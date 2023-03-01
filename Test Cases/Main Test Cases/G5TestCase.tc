@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TestCaseEntity>
+    <executionType>TS</executionType>
+    <type>ks</type>
+    <tag></tag>
+    <comment></comment>
+    <name>G5TestCase</name>
+</TestCaseEntity>
