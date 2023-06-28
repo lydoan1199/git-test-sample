@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TestSuiteEntity>
+    <name>test suite 1</name>
+    <testSuiteGuid>73e6cf47-45f2-41e3-8cfe-b7597310a88d</testSuiteGuid>
+    <testCaseLink>
+        <testCaseId>test-cases/Untitled folder/Untitled folder/Untitled folder/Untitled folder/Untitled folder/hihi</testCaseId>
+        <guid>0095f582-d841-4eb4-956e-7fd4b3da5854</guid>
+    </testCaseLink>
+    <testCaseLink>
+        <testCaseId>test-cases/Untitled folder/New test case</testCaseId>
+        <guid>db8de2ed-0b43-456f-be6b-de797d7f0897</guid>
+    </testCaseLink>
+    <testCaseLink>
+        <testCaseId>test-cases/Untitled folder/New test case (5)</testCaseId>
+        <guid>bec59327-aac4-4b43-a82b-e104d7527082</guid>
+    </testCaseLink>
+</TestSuiteEntity>
